@@ -7,3 +7,7 @@
 ### git push
 ### git mv
 ### git rm
+
+## CHAPTER 2
+### git pull
+### git fetch
